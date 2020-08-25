@@ -4,12 +4,11 @@
 
 ## Hi, I'm Erik M. Martens!
 
-<p>I am a Native Software Application Engineer focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.</p>
+I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.
 
 ## Technologies
 
 - 🛠[StackShare](https://stackshare.io/erikmartens)
-
 - Swift
 - Objective-C
 - JavaScript
@@ -17,12 +16,12 @@
 
 ## Social Links
 
-- 🌎 [Personal Website](https://erikmartens.weebly.com/)
 - 🛄 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/)
 - 🦜 [Twitter](https://twitter.com/erik_m_martens)
 - 📷 [Instagram](https://www.instagram.com/erik_m_martens/)
 
 ## Contact
 
+- 🌎 [Personal Blog](https://erikmartens.weebly.com/)
 - ✉️ [Email](mailto:erikmartens.developer@gmail.com)
 - ☎️ [Discord](https://discord.gg/swNfqge)
