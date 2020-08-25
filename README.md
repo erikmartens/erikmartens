@@ -16,7 +16,8 @@ I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm p
 
 ## Social Links
 
-- 🛄 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/)
+- 🗂 [Stack Overflow](https://stackoverflow.com/users/7270113/erik-m-martens)
 - 🦜 [Twitter](https://twitter.com/erik_m_martens)
 - 📷 [Instagram](https://www.instagram.com/erik_m_martens/)
 
