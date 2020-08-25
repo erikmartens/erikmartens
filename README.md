@@ -1,16 +1,28 @@
-### Hi there 👋
+![Erik's Github Stats](https://github-readme-stats.vercel.app/api?username=erikmartens&theme=dracula&show_icons=true&count_private=true)
 
-<!--
-**erikmartens/erikmartens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Hi, I'm Erik M. Martens!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I am a Native Software Application Engineer focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.</p>
+
+## Technologies
+
+- 🛠[StackShare](https://stackshare.io/erikmartens)
+
+- Swift
+- Objective-C
+- JavaScript
+- Java
+
+## Social Links
+
+- 🌎 [Personal Website](https://erikmartens.weebly.com/)
+- 🛄 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/)
+- 🦜 [Twitter](https://twitter.com/erik_m_martens)
+- 📷 [Instagram](https://www.instagram.com/erik_m_martens/)
+
+## Contact
+
+- ✉️ [Email](mailto:erikmartens.developer@gmail.com)
+- ☎️ [Discord](https://discord.gg/swNfqge)
