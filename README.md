@@ -9,7 +9,7 @@ I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm p
 ## Technologies
 
 - 🛠[StackShare](https://stackshare.io/erikmartens)
-- Swift
+- Swift & RxSwift
 - Objective-C
 - JavaScript
 - Java
