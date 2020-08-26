@@ -2,7 +2,7 @@
 
 ---
 
-## Hi, I'm Erik M. Martens!
+## Hi, I'm Erik Maximilian Martens!
 
 I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.
 
