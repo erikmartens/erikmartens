@@ -6,7 +6,7 @@
 
 I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.
 
-| Technologies | Social Links | Contact |
+| Languages & Frameworks | Social Links | Contact |
 |:--|:--|:--|
 | Swift | 🛠[StackShare](https://stackshare.io/erikmartens) | 🌎 [Personal Blog](https://erikmartens.weebly.com/) |
 | RxSwift | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | ✉️ [Email](mailto:erikmartens.developer@gmail.com) |
