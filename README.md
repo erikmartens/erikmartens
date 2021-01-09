@@ -6,6 +6,8 @@
 
 I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.
 
+My aim is to give aspiring software developers, who want to create applications for Apple Platforms, access to learning materials, reference project, as well as software libraries, in order to get them started.
+
 | Languages | Frameworks | Contact | Social Links |
 |:--|:--|:--|:--|
 | Swift | SwiftUI | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | 🛠 [StackShare](https://stackshare.io/erikmartens) |
