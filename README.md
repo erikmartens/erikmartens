@@ -10,7 +10,7 @@ My aim is to give aspiring software developers, who want to create applications 
 
 | Languages | Frameworks | Contact | Social Links | Crypto |
 |:--|:--|:--|:--|:--|
-| Swift | SwiftUI | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | 🛠 [StackShare](https://stackshare.io/erikmartens) | ETH 0x00Af3B138F05B9A52c237120C836DAAB941C7217 |
-| Objective-C | Combine | 🌎 [Personal Blog](https://erikmartens.weebly.com/) | 🗂 [Stack Overflow](https://stackoverflow.com/users/7270113/erik-m-martens) | |
-| JavaScript | RxSwift | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 🦜 [Twitter](https://twitter.com/erik_m_martens) | |
-| Java |  | ☎️ [Discord](https://discord.gg/swNfqge) | 📷 Instagram ([1](https://www.instagram.com/erik_m_martens/), [2](https://www.instagram.com/visuals_of_erik/)) | |
+| Swift | SwiftUI | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | 🛠 [StackShare](https://stackshare.io/erikmartens) | BTC bc1qq6f28wddrhrwf2wptq937ajf63qfvhlcdp3a36 |
+| Objective-C | Combine | 🌎 [Personal Blog](https://erikmartens.weebly.com/) | 🗂 [Stack Overflow](https://stackoverflow.com/users/7270113/erik-m-martens) | ETH 0x00Af3B138F05B9A52c237120C836DAAB941C7217 |
+| JavaScript | RxSwift | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 🦜 [Twitter](https://twitter.com/erik_m_martens) | BNB bnb1wpr9lk4cspcnn85k98c96qr4qx629tqhgrp4w9 |
+| Java |  | ☎️ [Discord](https://discord.gg/swNfqge) | 📷 Instagram ([1](https://www.instagram.com/erik_m_martens/), [2](https://www.instagram.com/visuals_of_erik/)) | DOGE DDm3jjrjnj6NwPechrrox7nBo2mUc41PqY |
