@@ -15,4 +15,4 @@ My aim is to give aspiring software developers, who want to create applications 
 | JavaScript | RxSwift | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 🦜 [Twitter](https://twitter.com/erik_m_martens) |
 | Java |  | ☎️ [Discord](https://discord.gg/swNfqge) | 📷 Instagram ([1](https://www.instagram.com/erik_m_martens/), [2](https://www.instagram.com/visuals_of_erik/)) |
 
-[Want to leave a tip? 🍻 ☕️](https://github.com/erikmartens/erikmartens/TIPPING.md)
+[Want to leave a tip? 🍻 ☕️](https://github.com/erikmartens/erikmartens/blob/7e4963e2d7f4ad917925344c4743b5936fc02d94/TIPPING.md)
