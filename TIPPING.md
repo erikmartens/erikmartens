@@ -24,5 +24,6 @@ Thank you for considering to support my open-source work! You can aid me in a va
 | 💠 Ether | ETH | 0x00Af3B138F05B9A52c237120C836DAAB941C7217 |
 | 🌱 Chia | XCH | xch1335aclc6h7880mpt8fkzcyzsd6z86p2szz7h02v55ya4w28pc5dq6unmwg |
 | ❄️ Cardano | ADA | addr1qxyl0zqzvxnywggq0tyjjwjxg445wcwzy3x7wcplsn5aca5qzcu8sf87xfzvs56xm2suss4ffcg49p9ndzyv4484psdsx3pvxp |
+| Monero | XMR |  |
 | 🔸 Binance Coin | BNB | bnb1wpr9lk4cspcnn85k98c96qr4qx629tqhgrp4w9 |
 | 🐕 Doge Coin | DOGE | DDm3jjrjnj6NwPechrrox7nBo2mUc41PqY |
