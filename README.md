@@ -4,7 +4,7 @@
 
 ## Hi, I'm Erik Maximilian Martens!
 
-I am a _Native Software Application Engineer_ focusing on Apple Platforms. I'm passionate about hiking, cycling & smartphone photography.
+I am a _Software Application Engineer_ focusing on native development for Apple Platforms. I'm passionate about cycling, hiking & smartphone photography.
 
 My aim is to give aspiring software developers, who want to create applications for Apple Platforms, access to learning materials, reference project, as well as software libraries, in order to get them started.
 
