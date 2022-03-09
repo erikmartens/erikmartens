@@ -6,7 +6,7 @@
 
 I am a _Software Application Engineer_ focusing on native development for Apple Platforms. I'm passionate about cycling, hiking & smartphone photography.
 
-My aim is to give aspiring software developers, who want to create applications for Apple Platforms, access to learning materials, reference project, as well as software libraries, in order to get them started.
+My aim is to build maintainable, scalable and testable applications and share libraries, components and templates I create for achieving this goal with the open source community, in order to enhance knowledge exchange and collaboration accross the Swift Developer Community.
 
 | Languages | Frameworks | Contact | Social Links |
 |:--|:--|:--|:--|
