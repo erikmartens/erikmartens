@@ -8,18 +8,10 @@ I am a _Software Application Engineer_ focusing on native development for Apple 
 
 ---
 
-| `Core Languages` | Swift | Objective-C | JavaScript | Java |
-|:--|:--|:--|:--|:--|
-
-| `Core Frameworks` | ReactiveX (RxCocoa, RxSwift) | Combine | SwiftUI |
+| `Core Languages` | `Core Frameworks` | `Contact` | `Socials` |
 |:--|:--|:--|:--|
-
-| `Contact` | 🌎 [Personal Blog](https://erikmartens.weebly.com/) | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) |
-|:--|:--|:--|:--|
-
-| `Socials` | 🗂 [Stack Overflow](https://stackoverflow.com/users/7270113/erik-m-martens) | 🦜 [Twitter](https://twitter.com/erik_m_martens) |
-|:--|:--|:--|
-
----
+| Swift | ReactiveX (RxCocoa, RxSwift) |  🌎 [Personal Blog](https://erikmartens.weebly.com/) | 🗂 [Stack Overflow](https://stackoverflow.com/users/7270113/erik-m-martens) |
+| Objective-C | Combine | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 🦜 [Twitter](https://twitter.com/erik_m_martens) |
+|JavaScript | SwiftUI | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | |
 
 [Want to leave a tip? 🍻 ☕️](https://github.com/erikmartens/erikmartens/blob/master/TIPPING.md)
