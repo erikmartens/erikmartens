@@ -10,7 +10,7 @@ My aim is to build maintainable, scalable and testable applications and to share
 
 ---
 
-My core competencies include but are not limited to the programming languages and frameworks listed below. For a fuull overview of technologies and tools I am using, please head over to my [StackShare](https://stackshare.io/erik_m_martens)-page.
+My core competencies include but are not limited to the ones included below. For a full overview of technologies and tools I am using, please head over to my [StackShare](https://stackshare.io/erik_m_martens)-page.
 
 | `Core Languages` | Swift | Objective-C | JavaScript | Java |
 |:--|:--|:--|:--|:--|
@@ -20,7 +20,7 @@ My core competencies include but are not limited to the programming languages an
 
 ---
 
-You can reach me via the options listed below.
+You can reach me via the options listed below
 
 | `Contact` | 🌎 [Personal Blog](https://erikmartens.weebly.com/) | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) |
 |:--|:--|:--|:--|
