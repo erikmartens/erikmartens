@@ -14,5 +14,3 @@ I am a _Software Application Engineer_ focusing on native development for Apple 
 | Objective-C | Combine | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 🦜 [Twitter](https://twitter.com/erik_m_martens) |
 | Java | SwiftUI | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | |
 | JavaScript | node.js | | |
-
-[Want to leave a tip? 🍻 ☕️](https://github.com/erikmartens/erikmartens/blob/master/TIPPING.md)
