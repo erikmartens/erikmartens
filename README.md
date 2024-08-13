@@ -10,7 +10,7 @@ I am a _Software Application Engineer_ focusing on native development for Apple 
 
 | `Core Languages` | `Core Frameworks` | `Contact` | `Socials` |
 |:--|:--|:--|:--|
-| Swift | ReactiveX (RxCocoa, RxSwift) |  🌎 [Personal Blog](https://erikmartens.weebly.com/) | 🗂 [Stack Overflow](https://stackoverflow.com/users/7270113/erik-m-martens) |
+| Swift | ReactiveX (RxCocoa, RxSwift) | | |
 | Objective-C | Combine | ✉️ [Email](mailto:erikmartens.dev@icloud.com) | 🦜 [Twitter](https://twitter.com/erik_m_martens) |
 | Java | SwiftUI | 💼 [LinkedIn](https://www.linkedin.com/in/erik-maximilian-martens/) | |
 | JavaScript | node.js | | |
